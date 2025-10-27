@@ -50,6 +50,9 @@ dependencies {
     // Picasso
     implementation("com.squareup.picasso:picasso:2.8")
 
+    // PhotoView
+    implementation("com.github.chrisbanes:PhotoView:2.3.0")
+
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
     implementation(libs.material)
